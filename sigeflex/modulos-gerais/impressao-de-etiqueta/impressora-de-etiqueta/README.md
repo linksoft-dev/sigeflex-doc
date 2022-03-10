@@ -130,7 +130,7 @@ Para imprimir as etiquetas, vá no cadastro de produto e clique no botão i**mpr
 
 
 
-![tela de impressão de etiqueta para os preços de produtos](<../../../../.gitbook/assets/image (168).png>)
+![tela de impressão de etiqueta para os preços de produtos](<../../../../.gitbook/assets/image (168) (1).png>)
 
 É preciso ir imprimindo a etiqueta e ver se está de acordo com o que deseja, caso queira mudar, volta pra[ configuração de etiqueta](./#configuracao-da-etiqueta-no-sistema), altera os parâmetros e tenta novamente.
 

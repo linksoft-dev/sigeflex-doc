@@ -6,10 +6,17 @@ description: Operação de Envio dos arquivos XML
 
 ## Para realizar o envio automático mensal, é necessário cadastrar o contabilista no sistema.
 
-Abrir menu CADASTRO GERAIS >> SUB-MENU EMPRESA, 2X cliques na empresa cadastrada para editar o registro, logo após, inserir as informações na aba CONTADOR, e salva a alteração realizada. Dessa maneira o sistema irá realizar o envio automático mensal.
+Abrir menu CONFIGURAÇÕES, aba DF-E, inserir as informações na aba CONTADOR, e salva as alterações realizadas. Dessa maneira o sistema irá realizar o envio automático mensal todo dia 01 do mes.
+
+![](<../../../.gitbook/assets/image (175).png>)
 
 ## Para realizar o envio manualmente:
 
-NFC-e ou NF-e: Abrir o menu MOVIMENTAÇÃO e definir de qual Documento Fiscal enviar os arquivos XML, ambos após clicar no SUB-MENU, o sistema ira mostrar uma aba com nome ADMINISTRATIVO, inserir no filtro de datas o prazo que deseja gerar e enviar os arquivos, incluir o EMAIL e clicar em ENVIAR.
+Na mesma tela de configurações dentro da aba DF-e clicar no botao "enviar XML's da empresa".
 
-Obs: os e-mails da HOTMAIL não estão chegando informação devido a um problema externo de recepção do próprio provedor HOTMAIL, não havendo nenhum problema de envio por parte do sistema.
+![](<../../../.gitbook/assets/image (168).png>)
+
+O sistema ja coleta o email cadastrado na aba dados do contador ou pode inserir outro email manualmente, tambem ja coleta a data do mes retroativo no qual sera enviado os arquivos de movimentação fiscal. Basta clicar em "ENVIAR".
+
+![](<../../../.gitbook/assets/image (173).png>)
+

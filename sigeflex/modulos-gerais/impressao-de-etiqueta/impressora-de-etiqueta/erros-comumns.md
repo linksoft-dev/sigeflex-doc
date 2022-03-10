@@ -10,4 +10,4 @@ description: Página contendo os erros comuns de impressao de etiqueta e suas so
 
 Solução: Dê permissões na pasta Linker total para todos os usuários, como mostra a figura abaixo
 
-![](<../../../../.gitbook/assets/image (173).png>)
+![](<../../../../.gitbook/assets/image (173) (1).png>)
