@@ -1,5 +1,5 @@
 ---
-description: Tire suas duvidas de situações ocorridas no cotidiano da empresa.
+description: Perguntas e Respostas sobre emissão de Documentos Fiscais
 ---
 
 # FAQ
