@@ -6,7 +6,7 @@
 
 * [Informações Gerais](sigeflex/informacoes-gerais.md)
 * [Vendas](sigeflex/sigeflex-vendas/README.md)
-  * [PDV](sigeflex/sigeflex-vendas/vendas-no-pdv/README.md)
+  * [PDV](sigeflex/sigeflex-vendas/vendas-no-pdv.md)
     * [Importação de Pedido no PDV](sigeflex/sigeflex-vendas/vendas-no-pdv/importacao-de-pedido-no-pdv.md)
   * [Vendas com produto composto/kits](sigeflex/sigeflex-vendas/pedido-com-produto-composto.md)
   * [Pedido](sigeflex/sigeflex-vendas/pedido/README.md)
@@ -32,6 +32,7 @@
     * [Pagamento online com cartão via Cielo](sigeflex/sigeflex-vendas/formas-de-pagamento/pagamento-online-com-cartao-via-cielo.md)
   * [Serviços](sigeflex/sigeflex-vendas/servicos.md)
   * [FAQ](sigeflex/sigeflex-vendas/faq/README.md)
+    * [Emissão automática de NFC-e no PDV](sigeflex/sigeflex-vendas/faq/emissao-automatica-de-nfc-e-no-pdv.md)
     * [Configuração e comunicação com Balança](sigeflex/sigeflex-vendas/faq/configuracao-e-comunicacao-com-balanca.md)
 * [Fiscal](sigeflex/fiscal/README.md)
   * [Sped Fiscal](sigeflex/fiscal/sped-fiscal/README.md)
