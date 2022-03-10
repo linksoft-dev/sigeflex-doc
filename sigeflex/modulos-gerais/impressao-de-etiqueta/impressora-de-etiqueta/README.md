@@ -36,7 +36,7 @@ A tela abaixo, digite os dados da etiqueta como mostra o modelo abaixo, alterand
 
 Ao abrir a tela para definir as configurações de etiqueta, o sistema já traz um modelo padrão de impressão de acordo com o número de colunas que defindiu no passo anterior
 
-![Tela para definir as configurações de impressão da Etiqueta](<../../../../.gitbook/assets/image (174).png>)
+![Tela para definir as configurações de impressão da Etiqueta](<../../../../.gitbook/assets/image (174) (1).png>)
 
 O modelo de etiqueta é configurado seguindo o seguinte modelo abaixo, **É PRECISO CONFIGURAR CADA CAMPO COMO DESEJA,** a config abaixo já é funcional**,** mas para ajustar de acordo com preferência, é preciso alterar o modelo e ir testando, todas as medidas usam a unidade **MILÍMETRO (mm),** então essas coordenadas nas configurações é em **milímetro**, dessa forma, pode-se configurar **milimetricamente** onde cada campo será impresso na etiqueta.
 

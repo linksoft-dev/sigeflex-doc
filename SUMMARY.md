@@ -6,6 +6,8 @@
 
 * [Informações Gerais](sigeflex/informacoes-gerais.md)
 * [Vendas](sigeflex/sigeflex-vendas/README.md)
+  * [PDV](sigeflex/sigeflex-vendas/vendas-no-pdv/README.md)
+    * [Importação de Pedido no PDV](sigeflex/sigeflex-vendas/vendas-no-pdv/importacao-de-pedido-no-pdv.md)
   * [Vendas com produto composto/kits](sigeflex/sigeflex-vendas/pedido-com-produto-composto.md)
   * [Pedido](sigeflex/sigeflex-vendas/pedido/README.md)
     * [Emissor de Nota Fiscal](sigeflex/sigeflex-vendas/pedido/emissor-de-nota-fiscal/README.md)
@@ -19,7 +21,6 @@
   * [Pedido com cálculos de metragem](sigeflex/sigeflex-vendas/pedido-com-calculos-de-metragem.md)
   * [Cadastro de Produto](sigeflex/sigeflex-vendas/produto/README.md)
     * [Cadastrando produto composto](sigeflex/sigeflex-vendas/produto/cadastrando-produto-composto.md)
-  * [Pedidos rápidos no PDV](sigeflex/sigeflex-vendas/vendas-no-pdv.md)
   * [Pedidos Recorrentes](sigeflex/sigeflex-vendas/pedidos-recorrentes.md)
   * [Descontos e Promoções](sigeflex/sigeflex-vendas/descontos-e-promocoes/README.md)
     * [Por Valor](sigeflex/sigeflex-vendas/descontos-e-promocoes/por-valor.md)
