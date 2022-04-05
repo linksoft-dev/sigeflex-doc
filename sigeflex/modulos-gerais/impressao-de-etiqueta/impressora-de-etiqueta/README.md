@@ -18,7 +18,7 @@ Siga os passos abaixo para configurar a impressora para que seja possível impri
   * Porta: **\\\localhost\ELGIN L42Pro**
 * Clique em salvar, pronto, o AcbrMonitor já está configurado para imprimir na impressora
 
-![](<../../../../.gitbook/assets/image (164).png>)
+![](<../../../../.gitbook/assets/image (164) (1).png>)
 
 ### **Configuração da Etiqueta no Sistema**
 

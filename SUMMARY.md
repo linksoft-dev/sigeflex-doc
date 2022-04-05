@@ -43,6 +43,8 @@
   * [Contas a Receber](sigeflex/sigeflex-financeiro/contas-a-receber.md)
   * [Fechamento de Caixa](sigeflex/sigeflex-financeiro/fechamento-de-caixa.md)
   * [Recibo](sigeflex/sigeflex-financeiro/recibo.md)
+  * [FAQ - Financeiro](sigeflex/sigeflex-financeiro/faq-financeiro/README.md)
+    * [Como baixar um titulo em contas a receber?](sigeflex/sigeflex-financeiro/faq-financeiro/como-baixar-um-titulo-em-contas-a-receber.md)
 * [Estoque](sigeflex/sigeflex-estoque/README.md)
   * [Produtos](sigeflex/sigeflex-erp/sigeflex-estoque/produtos/README.md)
     * [Alterar estoque dos produtos](sigeflex/sigeflex-erp/sigeflex-estoque/produtos/alterar-estoque-dos-produtos.md)

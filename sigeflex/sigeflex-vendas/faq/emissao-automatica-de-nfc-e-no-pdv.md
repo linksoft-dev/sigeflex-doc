@@ -4,7 +4,7 @@ Para emitir a NFC-e automaticamente no PDV, vá em `Configurações, aba Vendas,
 
 &#x20;
 
-![](<../../../.gitbook/assets/image (176).png>)
+![](<../../../.gitbook/assets/image (176) (1).png>)
 
 
 
