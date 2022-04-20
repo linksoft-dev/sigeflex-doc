@@ -10,7 +10,7 @@ Para gerar uma NFe/NFC-e a partir de um ou vários pedidos é muito simples, seg
 
 ![selecionando pedidos](<../../../.gitbook/assets/selecionando pedidos.png>)
 
-#### Clique nos botoes de gerar NFe/NFce, após isso, basta ir no [sistema DFe](../../sigeflex-dfe/) que a nota terá sido gerada com a junção de todos os pedidos selecionados.
+#### Clique nos botoes de gerar NFe/NFce, após isso, basta ir no [sistema DFe](../../dfe/) que a nota terá sido gerada com a junção de todos os pedidos selecionados.
 
 ![](<../../../.gitbook/assets/gerar nfenfce.png>)
 

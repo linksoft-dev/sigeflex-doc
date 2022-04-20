@@ -20,7 +20,7 @@ Se tudo der certo, a nota será enviada e ficará com o status de **Autorizada**
 
 Ao abrir o menu NFC-e na aba de consulta, é mostrada todas as notas emitidas, com status **Autorizada** ou **Cancelada.**
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../../.gitbook/assets/image (13).png>)
 
 ### Como cancelar uma NFC-e?
 

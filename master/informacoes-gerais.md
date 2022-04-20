@@ -16,8 +16,8 @@ Após clicar sub-menu dos modulos do sistema teremos abas como: -Consulta -Cadas
 
 • Administrativo, são para telas relacionadas a envio das xml’s dos documentos fiscais.
 
-* [Grupo de Usuário](modulos-gerais/grupo-de-usuario.md)
-* [Cadastro de Pessoas](modulos-gerais/cadastro-de-pessoas.md)
-* [Sigelink](modulos-gerais/or-sigeflex.md)
-* [Tributação](sigeflex-dfe/or-sigeflex-1.md)
-* [Cadastro de Usuários](modulos-gerais/cadastro-de-usuarios.md)
+* [Grupo de Usuário](cadastros-gerais/grupo-de-usuario.md)
+* [Cadastro de Pessoas](cadastros-gerais/cadastro-de-pessoas.md)
+* [Sigelink](cadastros-gerais/or-sigeflex.md)
+* [Tributação](dfe/or-sigeflex-1.md)
+* [Cadastro de Usuários](cadastros-gerais/cadastro-de-usuarios.md)

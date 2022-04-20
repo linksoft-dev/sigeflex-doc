@@ -2,5 +2,5 @@
 description: Perguntas e Respostas sobre emissão de Documentos Fiscais
 ---
 
-# FAQ
+# ❓ FAQ Geral Documentos Fiscais
 

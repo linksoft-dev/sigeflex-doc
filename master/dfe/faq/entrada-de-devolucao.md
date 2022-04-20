@@ -1,8 +1,8 @@
 ---
-description: Operação de Entrade de Devolução de NF-e
+description: Operação de Entrada de Devolução de NF-e
 ---
 
-# Entrada de Devolução de NF-e
+# Como cancelar uma NFe fora do prazo?
 
 Situação: foi emitida uma NF-e de saída e precisa cancelar, porém com prazo de cancelamento expirado (24h);
 

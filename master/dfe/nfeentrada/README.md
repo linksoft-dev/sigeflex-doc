@@ -14,7 +14,7 @@ O sistema dispoem de 3 formas para realizar o procedimento de entrada de mercado
 
 1 - Logo que abrimos a tela de NF-e Entrada, vemos disponivel a opção de "Verificar NFE Pendente".
 
-![](<../../.gitbook/assets/consultanfe (1).png>)
+![](<../../../.gitbook/assets/consultanfe (1).png>)
 
 O sistema verifica na SEFAZ se existe alguma nfe que fo emitida para o CNPJ do solicitante da busca, caso nao tenha realizado entrada, o sistema faz o download da nota, entramos na nota baixada, para realizar a conferência dos campos e dos itens.
 
@@ -28,7 +28,7 @@ Clicar no botão "Novo"
 
 BOTÕES
 
-![](../../.gitbook/assets/botaoentradanfe.png)
+![](../../../.gitbook/assets/botaoentradanfe.png)
 
 1 NOVO
 
@@ -84,7 +84,7 @@ BOTÕES
 
 CORPO DA NOTA
 
-![](../../.gitbook/assets/cadentradanfe.jpg)
+![](../../../.gitbook/assets/cadentradanfe.jpg)
 
 1 Clicar na lupa para escolher o FORNECEDOR da nota onde o mesmo irá puxar os dados de cadastro e endereço.
 
@@ -110,9 +110,9 @@ Alterar o Status da nota para ACEITA.
 
 **Importação da XML**
 
-![](../../.gitbook/assets/importacaoarquivo.png)
+![](../../../.gitbook/assets/importacaoarquivo.png)
 
-![](../../.gitbook/assets/importacaochave.png)
+![](../../../.gitbook/assets/importacaochave.png)
 
 Após abrir entrada de NF-e clica no botão Importar XML.
 

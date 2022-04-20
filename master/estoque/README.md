@@ -10,4 +10,4 @@ Esse módulo é formado por outros módulos, como [Produto](https://docs.sigefle
 
 ### Leia mais
 
-[Cadastro de Usuários](../modulos-gerais/cadastro-de-usuarios.md) [Categoria](categoria.md)
+[Cadastro de Usuários](../cadastros-gerais/cadastro-de-usuarios.md) [Categoria](categoria.md)

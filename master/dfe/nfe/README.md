@@ -79,7 +79,7 @@ Na aba de REFERÊNCIAS, incluir uma ou mais **chaves de notas**, caso seja nota 
 
 #### Duplicata
 
-Aba DUPLICATA consta as informações caso o pagamento da nota tenha sido realizado por via de boletos ou crediário, que pode ser controlados de forma externa (outro sistema) ou pelo [**Sigeflex Financeiro**](../../sigeflex-financeiro/).
+Aba DUPLICATA consta as informações caso o pagamento da nota tenha sido realizado por via de boletos ou crediário, que pode ser controlados de forma externa (outro sistema) ou pelo [**Sigeflex Financeiro**](../../financeiro/).
 
 ![](<../../../.gitbook/assets/image (93).png>)
 

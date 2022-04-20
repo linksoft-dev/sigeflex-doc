@@ -14,4 +14,4 @@ Logo após abrir o ACBr, na aba  DF-e, clica em impressão, NFC-e.
 
 Deixar as configurações exatamente como na tela a baixo, clicar em salvar e testar a impressão no PDV:
 
-![](<../../.gitbook/assets/tela de configuração no ACBR impressao.png>)
+![](<../../../../.gitbook/assets/tela de configuração no ACBR impressao.png>)

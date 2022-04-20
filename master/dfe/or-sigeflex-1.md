@@ -14,4 +14,4 @@ O CSOSN deve conciliar com o CST para que as NFC-e ou NF-e sejam autorizadas.
 
 ## Leia mais
 
-&#x20;[Cadastro de Usuários](../modulos-gerais/cadastro-de-usuarios.md)
+&#x20;[Cadastro de Usuários](../cadastros-gerais/cadastro-de-usuarios.md)
