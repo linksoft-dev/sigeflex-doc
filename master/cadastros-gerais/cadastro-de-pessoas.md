@@ -1,8 +1,9 @@
 ---
 description: Cadastro de clientes, forncedores, vendedores. funcionarios ou transportadora.
+coverY: 0
 ---
 
-# Cadastro de Pessoas
+# 🧑🤝🧑 Cadastro de Pessoas
 
 ### **Como realizar cadastro de Pessoas?**
 

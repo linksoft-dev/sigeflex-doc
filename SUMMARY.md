@@ -3,7 +3,7 @@
 * [SIGEFLEX SISTEMAS DE GESTÃO](README.md)
   * [Informações Gerais](master/informacoes-gerais.md)
   * [Cadastros Gerais](master/cadastros-gerais/README.md)
-    * [Cadastro de Pessoas](master/cadastros-gerais/cadastro-de-pessoas.md)
+    * [🧑🤝🧑 Cadastro de Pessoas](master/cadastros-gerais/cadastro-de-pessoas.md)
     * [Grupo de Usuário](master/cadastros-gerais/grupo-de-usuario.md)
     * [Cadastro de Usuários](master/cadastros-gerais/cadastro-de-usuarios.md)
     * [Impressão de Etiqueta](master/cadastros-gerais/impressao-de-etiqueta/README.md)
