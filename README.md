@@ -10,19 +10,19 @@ O Sigeflex é um conjunto de sistemas de gestão para empresas, são sistemas es
 
 Abaixo mostra os sistemas que fazem parte da solução Sigeflex, sistema específico para cada caso, porém, podendo ter integrações entre eles, o usuário pode optar por usar apenas um sistema ou vários
 
-{% content-ref url="sigeflex/sigeflex-dfe/" %}
-[sigeflex-dfe](sigeflex/sigeflex-dfe/)
+{% content-ref url="master/sigeflex-dfe/" %}
+[sigeflex-dfe](master/sigeflex-dfe/)
 {% endcontent-ref %}
 
-{% content-ref url="sigeflex/sigeflex-financeiro/" %}
-[sigeflex-financeiro](sigeflex/sigeflex-financeiro/)
+{% content-ref url="master/sigeflex-financeiro/" %}
+[sigeflex-financeiro](master/sigeflex-financeiro/)
 {% endcontent-ref %}
 
-{% content-ref url="sigeflex/sigeflex-vendas/" %}
-[sigeflex-vendas](sigeflex/sigeflex-vendas/)
+{% content-ref url="master/sigeflex-vendas/" %}
+[sigeflex-vendas](master/sigeflex-vendas/)
 {% endcontent-ref %}
 
-{% content-ref url="sigeflex/sigeflex-estoque/" %}
-[sigeflex-estoque](sigeflex/sigeflex-estoque/)
+{% content-ref url="master/sigeflex-estoque/" %}
+[sigeflex-estoque](master/sigeflex-estoque/)
 {% endcontent-ref %}
 

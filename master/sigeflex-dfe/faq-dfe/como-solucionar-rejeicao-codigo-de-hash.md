@@ -14,4 +14,4 @@ Validar todos esses dados corretamente para solucionar a rejeição.
 
 ## Leia mais
 
-[FAQ](broken-reference) [Movimentação](../../../sigeflex-vendas/pedido/)
+[FAQ](broken-reference) [Movimentação](../../sigeflex-vendas/pedido/)
