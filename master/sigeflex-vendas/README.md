@@ -1,5 +1,6 @@
 ---
 description: Uso das funções do Sigeflex Vendas
+layout: editorial
 ---
 
 # Vendas
