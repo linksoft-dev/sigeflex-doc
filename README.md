@@ -6,7 +6,7 @@ description: >-
 
 # SIGEFLEX SISTEMAS DE GESTÃO
 
-O Sigeflex 333 é um conjunto de sistemas de gestão para empresas, são sistemas específicos para cada seguimento, dessa forma, o usuario utiliza a ferramenta correta para resolver o problema específico dele.
+O Sigeflex 333 teste é um conjunto de sistemas de gestão para empresas, são sistemas específicos para cada seguimento, dessa forma, o usuario utiliza a ferramenta correta para resolver o problema específico dele.
 
 Abaixo mostra os sistemas que fazem parte da solução Sigeflex, sistema específico para cada caso, porém, podendo ter integrações entre eles, o usuário pode optar por usar apenas um sistema ou vários
 
